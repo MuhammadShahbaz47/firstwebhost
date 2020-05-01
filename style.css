@@ -1,0 +1,293 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.header1{
+    background-color:#316DC3;
+    padding: 1px;
+}
+.header1 a{
+    padding: 11px;
+}
+.spaceheader1{
+    margin-inline-start: 100px;
+}
+.inline{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 15px;
+    display: inline-block;
+    padding-inline-start: 130px;
+}
+.donationbuttons{
+    display: inline-block;
+    padding-inline-start:65px;
+
+}
+.headerbuttons{
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: #549701;
+    font-size: 11px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 0px;
+    padding-left: 0px;
+    cursor: pointer;
+    background-color: rgb(248, 248, 248);
+    border: 1px solid #498500;
+}
+.headerbuttonscolor{
+    color: #479004;
+    text-decoration:none;
+}
+.header2{
+    background-color:rgb(247, 248, 250);
+    padding-inline-start: 95px;
+    position: relative;
+}
+.dropdownmenu li a{
+    text-decoration: none;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    display: block;
+    padding: 0 20px ;
+    font-size:14px;
+    line-height: 33px;
+
+}
+.dropdownmenu li{
+    list-style:none;
+    display:inline-block;
+}
+nav{
+    position: relative;
+    padding:1px 20px 1px 10px;
+    text-align: center;
+    z-index:100;
+}
+.logo{
+    float:left;
+    padding-top: 8px;
+}
+.homebutton{
+    background: #316DC3;
+    border-radius: 20px;
+}
+.dropdownmenu li a:hover{
+    background:#316DC3;
+    color:#fff;
+    border-radius: 20px;
+}
+
+.homeimage{
+    max-width:1600px;
+    max-height: 600px;
+    width:1349px;
+    height:400px;
+}
+.marquee1{
+    background-color: #316DC3;
+    width: 1200px;
+    padding: 5px;
+    color: white;
+}
+.marquee{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: #316DC3;
+    text-align: center;
+    font-size: 40px;
+}
+span{
+    color:#479004 ;
+}
+.intrologo{
+    display: block;
+    margin: auto;
+    width: 40px;
+    height:40px;
+}
+.intro{
+    padding-top: 1px;
+    background-color: #f7f8fa;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.intropara{
+    line-height: 26.6px;
+    color: gray;
+    font-size:14.7px;
+    width: 950px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:justify;
+}
+.saylaniserved{
+    padding-top:80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    background-color:rgb(51, 47, 255);
+    line-height: 1px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.h2white{
+    color: white;
+}
+h5{
+    color: white;
+    padding-top:10px;
+    font-size: 15px;
+}
+h5 span{
+    color: rgb(51, 255, 0);
+    font-size: 20px;
+}
+.services{
+    padding-top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(92, 92, 255);
+    background-color:#f7f8fa;
+ 
+}
+.serviceslogo{
+    display: block;
+    margin: auto;
+    width: 40px;
+    height:40px;
+}
+.alignboxes{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+}
+.box1 {
+    background-color: white;
+    width:350px;
+    height:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px -2px rgba(0,0,0,0.75);
+}
+  .box2 {
+    background-color:white;
+    width:350px;
+    height:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px -2px rgba(0,0,0,0.75);
+}
+  .box3 {
+    background-color: white;
+    width:350px;
+    height:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px -2px rgba(0,0,0,0.75);
+}
+.projectmain{
+    padding-bottom: ;
+}
+.projectheading{
+    text-align: left;
+    color: #316DC3;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    padding-left: 77px;
+    padding-top:35px;
+}
+.projectsbox{
+    background-color: rgb(247, 248, 250);
+    border: 1px solid rgb(238, 238, 238);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    color:#316DC3;
+    width:350px;
+    height:70px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.alignprojectboxes{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.projectimgpadding{
+    padding: 20px;
+}
+.projectmarquee{
+        width: 340px;
+        height: 60px;
+}
+.marquee2{
+    width: 250px;
+    height: 200px;
+    color: rgb(143, 143, 143);
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+.emptydiv{
+    padding-left:340px;
+}
+.upcomingeventsheading{
+    color: #316DC3;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-right:163px;
+
+}
+.imagegalleryheading{
+    padding-top: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.imagegallery{
+    display: flex;
+    justify-content: space-around;
+    padding:40px 70px 200px 70px;
+}
+.imagegallerysize{
+    width: 239px;
+}
+.footer1{
+    padding:60px 220px 60px 50px;
+   background-color: rgb(38, 39, 48);
+   color: rgb(190, 190, 190);
+   font-size: 16px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   display: flex;
+   align-items: flex-start;
+  justify-content: space-around;
+}
+.footercontact{
+    list-style-type: none;
+    line-height: 26.6px;
+}
+.footer1fontsize{
+    font-size: 18px;
+    color: white;
+}
+.footerlinkpadding{
+    margin: 4px;
+    padding:6px 9px 6px 9px;
+    background-color: #316DC3;
+    border-radius: 22px;
+}
+.footer2{
+    background-color: #316DC3;
+    color: white;
+    padding-left: 120px;
+    padding-top: 3px;
+    padding-bottom: 2px;
+    font-size:9px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
